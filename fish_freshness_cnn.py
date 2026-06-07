@@ -94,7 +94,7 @@ print("=" * 60)
 # ─────────────────────────────────────────────────────────────────────────────
 
 # ── Adjust these paths to match your Kaggle / local setup ─────────────────
-DATASET_DIR    = Path("/kaggle/input/fishy-dataset")   # Kaggle path
+DATASET_DIR = Path("/kaggle/input/datasets/crowww/a-large-scale-fish-dataset/Fish_Dataset/Fish_Dataset/")  # Kaggle path
 USE_CSV_LABELS = False                                  # Set True for Layout B
 
 # ── If dataset not found, build a synthetic demo dataset for testing ───────
