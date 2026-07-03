@@ -175,7 +175,7 @@ Model Comparison Table
 
 ## Author
 
-**[Your Name]**  
+Abhinav Reddy Tirumala 
 Machine Learning Course — Phase 2 Submission  
 Date: June 2026
 
