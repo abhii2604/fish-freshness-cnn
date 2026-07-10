@@ -1,5 +1,0 @@
-Model,Accuracy,Precision,Recall,F1-Score,AUC-ROC
-Custom CNN,1.0,1.0,1.0,1.0,1.0
-VGG16,1.0,1.0,1.0,1.0,1.0
-ResNet50,1.0,1.0,1.0,1.0,1.0
-MobileNetV2,1.0,1.0,1.0,1.0,1.0
